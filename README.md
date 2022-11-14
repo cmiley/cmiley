@@ -18,6 +18,7 @@ I'm @cmiley, a machine learning engineer. My website is www.caylermiley.com, whi
     - S3
     - EC2
     - Quicksight
+  - GitHub and BitBucket
 - Intermediate or Dated Usage
   - Python and Machine Learning
     - Tensorflow
