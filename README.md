@@ -28,6 +28,9 @@ I'm @cmiley, a machine learning engineer. My website is www.caylermiley.com, whi
     - Ray
     - LightGBM
     - ZeroMQ
+    - OpenCV
+    - Plotly
+    - Pytest
   - AWS/Cloud
     - Sagemaker
     - EMR
@@ -40,7 +43,7 @@ I'm @cmiley, a machine learning engineer. My website is www.caylermiley.com, whi
   - Javascript
   - Wordpress
 
-## GitHub Portfolio
+## GitHub Portfolio (IN PROGRESS)
 Here are some links to things in my portfolio to get you started:
 - ML/Stats Interview Topics Cheat Sheet
 - Personal Machine Learning Projects
