@@ -9,14 +9,35 @@ I'm @cmiley, a machine learning engineer. My website is www.caylermiley.com, whi
     - Ranger
     - Pandas
     - Numpy
-    - 
+    - PyTorch Lightning
+    - Jupyter
+    - Fastai
+    - AutoGluon
+    - Seaborn/Matplotlib
+  - AWS/Cloud
+    - S3
+    - EC2
+    - Quicksight
 - Intermediate or Dated Usage
   - Python and Machine Learning
     - Tensorflow
-    - 
+    - PostgreSQL
+    - R
+    - Joblib
+    - Ray
+    - LightGBM
+    - ZeroMQ
+  - AWS/Cloud
+    - Sagemaker
+    - EMR
+  - C++
+    - Bullet
+    - ROS
+  - LaTEX/Markdown
 - Cursory Usage
   - PySpark
-  - 
+  - Javascript
+  - Wordpress
 
 ## GitHub Portfolio
 Here are some links to things in my portfolio to get you started:
